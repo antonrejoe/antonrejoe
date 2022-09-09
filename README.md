@@ -18,7 +18,7 @@
 
 <hr>
 
-<div align ='center' ><h3> 🔥 I’m currently learning <em> Javascript ,SASS etc.</em> </h3> </div><br>
+<div align ='center' ><h3> 🔥 I’m currently working on some great projects for my portfolio and learning <em>  Javascript </em> </h3> as well </div><br>
 <div align ='center'><h3>🤝 How to reach me <em>antonrejoe@gmail.com</em></h3>   </div><br>
 <div align ='center' ><h3>💡 Ask me about <em>Web development</em>   </h3>  </div><br>
 
