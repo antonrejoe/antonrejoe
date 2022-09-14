@@ -55,6 +55,6 @@
 <a href="https://twitter.com/antonrejoe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="antonrejoe" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anton rejoe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anton rejoe" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16720136" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16720136" height="30" width="40" /></a>
-<a href="https://instagram.com/anton_rejoe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anton_rejoe" height="30" width="40" /></a>
+<a href="https://instagram.com/antonrejoe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="antonrejoe" height="30" width="40" /></a>
 </p>
 
