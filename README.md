@@ -36,12 +36,11 @@
 <a href="https://github.com/antonrejoe" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="40" height="40"/> </a><a href="https://github.com/antonrejoe" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/498px-Svelte_Logo.svg.png?20191219133350" alt="svelte" width="40" height="40"/> </a>
 </p>
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=antonrejoe&show_icons=true&locale=en&layout=compact" alt="entrepreneu8r" /></p>
+
 
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antonrejoe&show_icons=true&locale=en" alt="antonrejoe" /></p>
 
 <br>
 
