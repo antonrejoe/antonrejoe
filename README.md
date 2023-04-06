@@ -18,7 +18,7 @@
 
 ###
 
-<h2 align="center">Weilding the sword with my full might</h2>
+<h2 align="center">Wielding the sword with my full might</h2>
 
 ###
 
