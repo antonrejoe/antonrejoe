@@ -7,5 +7,8 @@
 
 
 ### <h2 align="center">I wield my sword as I love doing it </h2>
-###
 
+### Recent Pull Requests
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
