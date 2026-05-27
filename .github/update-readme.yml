@@ -1,0 +1,23 @@
+name: Update README PR Preview
+
+on:
+  schedule:
+    - cron: '0 */8 * * *' # Updates every 8 hours
+  workflow_dispatch: # Allows you to manually trigger it anytime
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Fetch Recent PR Activity
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: "⚡ Update recent PR preview headings"
+          MAX_LINES: 10
