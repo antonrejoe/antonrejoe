@@ -1,4 +1,4 @@
-Hi everyone, I am Anton Rejoe. I am an ECE graduate with strong specialization in Embedded Systems and Firmware Development. Proficient RTOS, C/C++, Bare-metal and Driver development.
+Hi everyone, I am Anton Rejoe. I am an ECE graduate with strong specialization in Embedded Systems and Firmware Development. Proficient in RTOS, C/C++, Bare-metal and Driver development.
 
 ### Recent Pull Requests
 
