@@ -1,6 +1,6 @@
 Hi everyone, I am Anton Rejoe. I am an ECE graduate with strong specialization in Embedded Systems and Firmware Development. Proficient in RTOS, C/C++, Bare-metal and Driver development.
 
-### Recent Pull Requests
+### Recent Contributions
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#107794](https://github.com/zephyrproject-rtos/zephyr/pull/107794#issuecomment-4561313899) in [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
