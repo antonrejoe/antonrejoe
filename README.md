@@ -1,5 +1,9 @@
 Hi everyone, I am Anton Rejoe. I am an ECE graduate with strong specialization in Embedded Systems and Firmware Development. Proficient in RTOS, C/C++, Bare-metal and Driver development.
 
+<br/>
+
+![Anton Rejoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonrejoe&show_icons=true&theme=transparent)
+
 ### Recent Contributions
 
 <!--START_SECTION:activity-->
