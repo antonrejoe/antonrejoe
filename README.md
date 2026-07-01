@@ -2,7 +2,6 @@ Hi everyone, I am Anton Rejoe. I am an ECE graduate with strong specialization i
 
 <br/>
 
-![Anton Rejoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonrejoe&show_icons=true&theme=transparent)
 
 ### Recent Contributions
 
